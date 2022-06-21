@@ -9,3 +9,7 @@
 //1- Recupero il paragrafo con l'id
 const resulParagraph = document.getElementById('price-ticket')
 console.log('price-ticket')
+
+//2- Chiedo il numero di chilometri
+const numberchilo = prompt('Numero di chilometri da percorrere', '100km')
+console.log('numberchilo')
